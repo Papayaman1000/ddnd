@@ -1,0 +1,74 @@
+Falconcall Deft-Feather
+
+M
+Rog 5 (Prof. + 3)
+Kenku
+Criminal [Blackmailer]
+LN
+Common, Auran, Thieves' Cant [all spoken through Mimicry]
+
+[Feats/ASI: Athlete [+1 DEX]]
+
+Falconcall is a dirty blackmailer with a sense of justice. A strict adherent to
+thieves' honor codes, he always thought his blackmailing to be the truest form
+of justice, forcing people to pay for their crimes in one way or another. He
+just prefers to pocket it.
+
+HP: 38 / 38
+AC: 12 [Leather]
+
+STR: -1 ( 8)            [alloc.  8                          ]
+DEX: +4 (18)            [alloc. 15 + race si 2 + feat si 1  ]
+CON: +2 (14)            [alloc. 14                          ]
+INT:  0 (10)            [alloc. 10                          ]
+WIS: +2 (14)            [alloc. 13 + race si 1              ]
+CHA: +1 (12)            [alloc. 12                          ]
+
+WEAPON:
+  Rapier (1d8+7 piercing)
+  Shortbow (1d6+7 piercing | 80/320 | 20 arrows)
+
+SKILLS:
+  (+ 7) Acrobatics
+  (+ 4) Deception
+  (+ 5) Insight
+  (+ 4) Performance
+  (+ 7) Sleight of Hand
+  (+10) Stealth *
+  (+ 6) Thieves' Tools *
+
+ABILITIES:
+  Sneak Attack: 3d6
+  Cunning Action (Bonus: Dash, Disengage, Hide, Sleight of Hand, Thieves' Tools, Use Object or Item)
+  Fast Climb (= walk speed)
+  Easy Jumps (5ft buildup for running, +DEX ft for running long jumps)
+  Quick Stand-up (5ft movmement used to lose Prone)
+  Uncanny Dodge (Reaction: Halve attack damage)
+  Criminal Contacts
+  Advantage on Forgeries
+  Mimicry
+  
+
+OTHER ITEMS:
+  CASH:
+    PP:   50
+    GP:   10
+    EP:    5
+    SP:   20
+    CP:   50
+  OTHER:
+    Dagger (2)
+    Thieves' Tools
+    Backpack
+    Ball Bearings
+    String (10ft)
+    Bell
+    Candle (5)
+    Crowbar
+    Hammer
+    Hooded Lantern (2 Oil)
+    Tinderbox
+    Waterskin
+    Rope (50ft)
+    Piton (10)
+    Rations (5 days)
