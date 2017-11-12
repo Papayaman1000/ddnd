@@ -51,7 +51,7 @@ ABILITIES:
 
 OTHER ITEMS:
   CASH:
-    PP:   50
+    PP:    0
     GP:   10
     EP:    5
     SP:   20
